@@ -1,10 +1,8 @@
-Sure! Here's a polished and professional README file tailored for your Next.js project, enhancing clarity, structure, and professionalism:
 
----
 
-# GenZTraveller - Next.js Airline Reservation Website
+# SpidyTraveller - Next.js Airline Reservation Website
 
-Welcome to the **GenZTraveller** Next.js project — a modern, fast, and SEO-optimized airline reservation and flight booking platform.
+Welcome to the **SpidyTraveller** Next.js project — a modern, fast, and SEO-optimized airline reservation and flight booking platform.
 
 ---
 
@@ -50,8 +48,8 @@ To run this project locally:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/genztraveller.git
-cd genztraveller
+git clone https://github.com/your-username/SpidyTraveller.git
+cd SpidyTraveller
 ```
 
 2. **Install dependencies**
@@ -113,7 +111,7 @@ bun dev
 
 The easiest way to deploy this app is via **Vercel** — the creators of Next.js.
 
-- Visit: [https://vercel.com/new](https://vercel.com/new?utm_medium=default-template&utm_source=genztraveller&utm_campaign=deploy)
+- Visit: [https://vercel.com/new](https://vercel.com/new?utm_medium=default-template&utm_source=SpidyTraveller&utm_campaign=deploy)
 - Connect your GitHub repo and deploy instantly.
 
 For other hosting platforms like **Hostinger**, make sure to configure SSL, redirects, and `.htaccess` for SEO and security as per your hosting requirements.
@@ -131,14 +129,14 @@ For other hosting platforms like **Hostinger**, make sure to configure SSL, redi
 
 ## Contact
 
-**GenZTraveller Customer Support:** (844) 930-0173
-Website: [https://genztraveller.com](https://genztraveller.com)
+**SpidyTraveller Customer Support:** (844) 930-0173
+Website: [https://SpidyTraveller.com](https://SpidyTraveller.com)
 
 For issues, questions, or contributions, please open an issue or submit a pull request on GitHub.
 
 ---
 
-_Thank you for using GenZTraveller — your trusted flight booking partner!_
+_Thank you for using SpidyTraveller — your trusted flight booking partner!_
 
 ---
 
