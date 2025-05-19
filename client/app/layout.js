@@ -52,7 +52,7 @@ export default function RootLayout({ children }) {
         <link rel="canonical" href={metadata.siteUrl} />
 
         {/* ✅ Favicon */}
-        <link rel="icon" href="/images/logo.png" type="image/x-icon" />
+        {/* <link rel="icon" href="/images/logo.png" type="image/x-icon" /> */}
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />

@@ -18,10 +18,10 @@ const MobilePromo = () => {
           <div className="ctaText text-center text-white font-medium">
             <p className="text-sm">Call & Get Unpublished Flight Deals</p>
             <a
-              href="tel:+1-(844) 930-0173"
+              href="tel:+1-(844) 919-8610"
               className="block text-white font-bold text-3xl"
             >
-              +1-(844) 930-0173
+              +1-(844) 919-8610
             </a>
           </div>
         </div>
@@ -57,7 +57,7 @@ const MobilePromo = () => {
           ].map((text, i) => (
             <a
               key={i}
-              href="tel:+1-(844) 930-0173"
+              href="tel:+1-(844) 919-8610"
               className="bg-red-600 text-white py-2 rounded text-center"
             >
               {text}
@@ -107,7 +107,7 @@ const MobilePromo = () => {
             <small className="block text-sm">
               Unpublished Phone-Only Offers
             </small>
-            <span className="text-xl font-bold block">+1-(844) 930-0173</span>
+            <span className="text-xl font-bold block">+1-(844) 919-8610</span>
           </div>
         </div>
 

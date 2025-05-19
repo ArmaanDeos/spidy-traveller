@@ -10,10 +10,10 @@ const LoadingPage = () => {
           Please wait a moment... Your perfect trip is almost ready.
         </p>
         <a
-          href="tel:+1-(888) 370-1612"
+          href="tel:+1-(844) 919-8610"
           className="inline-block mt-4 px-6 py-3 text-base font-semibold rounded-full bg-white text-gray-900 hover:bg-gray-200 transition"
         >
-          📞 Call Now for Instant Booking: +1 (888) 370-1612
+          📞 Call Now for Instant Booking: +1-(844) 919-8610
         </a>
       </div>
 
