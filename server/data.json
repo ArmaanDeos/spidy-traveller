@@ -1,0 +1,50 @@
+{
+  "slices": [
+    {
+      "duration": "PT3H30M",
+      "destination": {
+        "iata_city_code": "DXB",
+        "city_name": "Dubai",
+        "iata_country_code": "AE",
+        "icao_code": "OMDB",
+        "iata_code": "DXB",
+        "latitude": 25.252987,
+        "longitude": 55.365035,
+        "city": {
+          "iata_city_code": "DXB",
+          "city_name": null,
+          "iata_country_code": "AE",
+          "icao_code": null,
+          "iata_code": "DXB",
+          "latitude": null,
+          "longitude": null,
+          "time_zone": null,
+          "type": "city",
+          "name": "Dubai",
+          "id": "cit_dxb_ae"
+        },
+        "time_zone": "Asia/Dubai",
+        "type": "airport",
+        "name": "Dubai International Airport",
+        "id": "arp_dxb_ae"
+      },
+      "origin": {
+        "iata_city_code": "DEL",
+        "city_name": "New Delhi",
+        "iata_country_code": "IN",
+        "icao_code": "VIDP",
+        "iata_code": "DEL",
+        "latitude": 28.558498,
+        "longitude": 77.100193,
+        "city": null,
+        "time_zone": "Asia/Kolkata",
+        "type": "airport",
+        "name": "Indira Gandhi International Airport",
+        "id": "arp_del_in"
+      },
+      "id": "sli_0000Asq6ZuYOxINcxT40mG"
+    }
+  ],
+
+  "id": "off_0000Asq6ZuYkvyfCyZEIKt"
+}
