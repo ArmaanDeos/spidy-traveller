@@ -6,7 +6,7 @@ export const fetchSuggestions = createAsyncThunk(
   async (query, thunkAPI) => {
     try {
       const response = await axios.get(
-        `https://genz-api.onrender.com/api/flights/place-suggestions?query=${query}`
+        `https://spidy-api.onrender.com/api/flights/place-suggestions?query=${query}`
       );
       return response.data;
     } catch (err) {
